@@ -1,0 +1,15 @@
+1. mkdir myapp
+2. cd myapp
+3. npm init
+4. entry point: (index.js)
+5. npm install express --save
+6. cd ..
+7. npm install express-generator -g
+8. express -e app01
+9. cd app01 && npm install
+
+10. cd app01
+11. npm install
+12. SET DEBUG=app01:* & npm start      (node ./bin/www)
+13. ºô­¶ localhost:3000
+14.views -> index.ejs
